@@ -1,0 +1,1 @@
+This script is used to convert webp images to gif. I used Jie Jenn youtube tutorial to implement the frontend. Check out his [youtube cannel](https://www.youtube.com/watch?v=KVEIW2htw0A&ab_channel=JieJenn).
